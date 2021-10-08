@@ -39,7 +39,7 @@ The panel picture shows approximate positions.
 
 **WAND** 
 
-Is used to crossfade or switch the recording destination between walkmas. Point the knob to the left - and the audio will be looped there, move it slowly across the range and you will have bits of recording spread across three virtual cassettes.
+Is used to crossfade(top switch on) or switch(top switch gate or tap) the recording destination between walkmas. Point the knob to the left - and the audio will be looped there, move it slowly across the range and you will have bits of recording spread across three virtual cassettes.
 
 
 
@@ -47,12 +47,14 @@ Is used to crossfade or switch the recording destination between walkmas. Point 
 
 - __top__ "recording stare"
 
-- **gate** recording is active only when button is pressed or the gate is high in the tap/FSU input.
-- always **on** 
-- **tap** record starts on the first tap and ends on the second.
+- **gate** recording is active only when button is pressed or the gate is high in the tap/FSU input. (Wand switches on recording in lefrmost, noon, and rightmost positions to respective
+Walkmas)
+- always **on** (wand crossfades)
+- **tap** record starts on the first tap and ends on the second. (Wand works
+As in gate mode)
 
 - __bottom__ "walkmas configuration 
-
+At
 - ** Y ** Input to mid. Mid to left and right.
 – ** 3 ** input to three walkmas
 - ** > ** input to left. Left to mid. Mid to right.
