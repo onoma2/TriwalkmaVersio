@@ -22,6 +22,8 @@ The panel also depicts "init state" – equal pitch across the looped*3 and inpu
 
 ###Controls###
 
+The module will respond to +0-5v into CV inputs. Pots work as offsets. Gate or trig input should go into Tap/FSU (bottom left) input of your Versio.
+
 
 
 - **Blend** – dry/wet mix 
