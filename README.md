@@ -22,7 +22,7 @@ The panel also depicts "init state" – equal pitch across the looped*3 and inpu
 
 ###Controls###
 
-The module will respond to +0-5v into CV inputs. Pots work as offsets. Gate or trig input should go into Tap/FSU (bottom left) input of your Versio.
+The module will respond to +0-5v into the CV inputs. Pots work as offsets. Tap/FSU input (bottom left) of your Versio expects gates or triggers.
 
 
 
