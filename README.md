@@ -10,7 +10,7 @@ Many things will get destroyed in the process, but some more will stay and prosp
 If some tape emulating skwemorphs attempt to recreate a vintage studio feel with saturation, real-time editing and an image of a big and expensive reel, Triwalkma was imagines as an homage to portable cassette players that are used at
 The moment as stand alone voices and texture generators, providing tactile feel to the short recordings that are looped on a cut out tape. 
 
-Broken trio of stereo “walkmas” that continuously record signal and you can only control the destination of recordings but not the mix of the them by the WAND. 
+Triwalkma is a broken trio of stereo “walkmas” that continuously record signal and you can only control the destination of recordings but not the mix of the them by the WAND. 
 
 .
 
@@ -66,4 +66,4 @@ That's it. Have fun. Take care of your ears. Use it at your own risk.
 
 If there will be updates, they will be minor, interface related. 
 
-So please welcome Triwalma Versio as your new eurorack instrument.
+So please welcome Triwalkma Versio as your new eurorack instrument.
