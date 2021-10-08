@@ -69,3 +69,7 @@ That's it. Have fun. Take care of your ears. Use it at your own risk.
 If there will be updates, they will be minor, interface related. 
 
 So please welcome Triwalkma Versio as your new eurorack instrument.
+
+
+To install it grab the .bin file and flash your Versio module with Ewout Decraene the one that ends .bin and then flash your Versio module with
+https://electro-smith.github.io/Programmer/
