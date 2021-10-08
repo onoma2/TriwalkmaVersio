@@ -45,7 +45,9 @@ Is used to crossfade(top switch on) or switch(top switch gate or tap) the record
 
 **switches**
 
-- __top__ "recording stare"
+- __top__ "recording state"
+
+(Left pair of leds turn bright green when recording is on. In tap and gate mode dim green light shows where the Wand is pointing, with both LEDs corresponding to mid)
 
 - **gate** recording is active only when button is pressed or the gate is high in the tap/FSU input. (Wand switches on recording in lefrmost, noon, and rightmost positions to respective
 Walkmas)
@@ -56,7 +58,7 @@ As in gate mode)
 - __bottom__ "walkmas configuration 
 At
 - ** Y ** Input to mid. Mid to left and right.
-– ** 3 ** input to three walkmas
+- ** 3 ** input to three walkmas
 - ** > ** input to left. Left to mid. Mid to right.
 
 
